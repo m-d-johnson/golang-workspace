@@ -4,4 +4,7 @@
 [submodule "mapdata"]
 	path = mapdata
 	url = git@github.com:m-d-johnson/mapdata.git
+[submodule "gojuice"]
+	path = gojuice
+	url = git@github.com:m-d-johnson/mapdata.git
 
