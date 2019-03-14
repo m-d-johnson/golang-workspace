@@ -1,3 +1,7 @@
 [submodule "hass-summary"]
 	path = hass-summary
 	url = git@github.com:m-d-johnson/hass-summary.git
+[submodule "mapdata"]
+	path = mapdata
+	url = git@github.com:m-d-johnson/mapdata.git
+
