@@ -1,0 +1,3 @@
+[submodule "hass-summary"]
+	path = hass-summary
+	url = git@github.com:m-d-johnson/hass-summary.git
